@@ -1,0 +1,1114 @@
+C:\Users\dell\Desktop\QLKho\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\QLKho\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\dell\Desktop\QLKho\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\QLKho\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\UI.exe.config
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\UI.exe
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\UI.pdb
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\BUS.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DAL.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\BUS.pdb
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DAL.pdb
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DAL.dll.config
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\dell\Desktop\QLKho\UI\obj\Debug\UI.exe
+C:\Users\dell\Desktop\QLKho\UI\obj\Debug\UI.pdb
+C:\Users\dell\Desktop\QLKho\UI\obj\Debug\UI.frm_Login.resources
+C:\Users\dell\Desktop\QLKho\UI\obj\Debug\UI.frm_MainForm.resources
+C:\Users\dell\Desktop\QLKho\UI\obj\Debug\UI.frm_QLHHoa.resources
+C:\Users\dell\Desktop\QLKho\UI\obj\Debug\UI.frm_QLTKhoan.resources
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\obj\Debug\UI.exe.licenses
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.CodeParser.v17.1.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.DataAccess.v17.1.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.PivotGrid.v17.1.Core.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.XtraPivotGrid.v17.1.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.XtraReports.v17.1.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.Xpo.v17.1.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\EnvDTE.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\stdole.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\Microsoft.MSXML.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.DataAccess.v17.1.xml
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.XtraReports.v17.1.xml
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\obj\Debug\UI.frm_QLNCCap.resources
+C:\Users\dell\Desktop\QLKho\UI\obj\Debug\UI.frm_TaoPNhap.resources
+C:\Users\dell\Desktop\QLKho\UI\obj\Debug\UI.frm_QLPNhap.resources
+C:\Users\dell\Desktop\QLKho\UI\obj\Debug\UI.frm_ChiTietNhap.resources
+C:\Users\dell\Desktop\QLKho\UI\obj\Debug\UI.frm_TaoPXuat.resources
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\ve\UI.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\bin\Debug\vi-VN\UI.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\obj\Debug\UI.frm_QLHHoa.ve.resources
+C:\Users\dell\Desktop\QLKho\UI\obj\Debug\UI.frm_QLHHoa.vi-VN.resources
+C:\Users\dell\Desktop\QLKho\UI\obj\Debug\ve\UI.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\obj\Debug\vi-VN\UI.resources.dll
+C:\Users\dell\Desktop\QLKho\UI\obj\Debug\UI.QLPXuat.resources
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\obj\Debug\UI.csprojAssemblyReference.cache
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\obj\Debug\UI.exe.config
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\obj\Debug\UI.exe
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\obj\Debug\UI.pdb
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\UI.exe.config
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\UI.exe
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\UI.pdb
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ve\UI.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\vi-VN\UI.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\BUS.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.CodeParser.v17.1.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.Data.v17.1.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.DataAccess.v17.1.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.Office.v17.1.Core.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.PivotGrid.v17.1.Core.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.XtraPivotGrid.v17.1.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.XtraReports.v17.1.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DAL.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.Xpo.v17.1.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\EnvDTE.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\stdole.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\EnvDTE80.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\VSLangProj.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\VSLangProj80.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\Newtonsoft.Json.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\Microsoft.MSXML.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\Microsoft.Build.Framework.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\VSLangProj2.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\BUS.pdb
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.Data.v17.1.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.DataAccess.v17.1.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.Office.v17.1.Core.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.XtraReports.v17.1.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DAL.pdb
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DAL.dll.config
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.Xpo.v17.1.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\obj\Debug\UI.frm_ChiTietNhap.resources
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\obj\Debug\UI.frm_Login.resources
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\obj\Debug\UI.frm_MainForm.resources
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\obj\Debug\UI.Properties.Resources.resources
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\obj\Debug\UI.frm_QLHHoa.resources
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\obj\Debug\UI.frm_QLNCCap.resources
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\obj\Debug\UI.frm_QLPNhap.resources
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\obj\Debug\UI.QLPXuat.resources
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\obj\Debug\UI.frm_TaoPNhap.resources
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\obj\Debug\UI.frm_QLTKhoan.resources
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\obj\Debug\UI.frm_TaoPXuat.resources
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\obj\Debug\UI.frm_QLHHoa.ve.resources
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\obj\Debug\UI.frm_QLHHoa.vi-VN.resources
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\obj\Debug\UI.csproj.GenerateResource.cache
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\obj\Debug\UI.exe.licenses
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\obj\Debug\ve\UI.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\obj\Debug\vi-VN\UI.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\obj\Debug\UI.csproj.CopyComplete
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\bin\Debug\DevExpress.RichEdit.v17.1.Export.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\obj\Debug\UI.Report.resources
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\obj\Debug\RdlCompile.cache
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\obj\Debug\RdlCompile.compiled
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\obj\Debug\UI.BaoCao.resources
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\UI\obj\Debug\UI.ReportHangHoa.resources
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\obj\Debug\UI.exe
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\obj\Debug\UI.pdb
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\UI.exe.config
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\UI.exe
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\UI.pdb
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\BUS.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.CodeParser.v17.1.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.DataAccess.v17.1.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.PivotGrid.v17.1.Core.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.RichEdit.v17.1.Export.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.Xpo.v17.1.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraPivotGrid.v17.1.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraReports.v17.1.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DAL.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\EnvDTE.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\stdole.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.MSXML.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\BUS.pdb
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.DataAccess.v17.1.xml
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraReports.v17.1.xml
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DAL.pdb
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DAL.dll.config
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\obj\Debug\UI.BaoCao.resources
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\obj\Debug\UI.frm_ChiTietNhap.resources
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\obj\Debug\UI.frm_Login.resources
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\obj\Debug\UI.frm_MainForm.resources
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\obj\Debug\UI.frm_QLHHoa.resources
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\obj\Debug\UI.frm_QLNCCap.resources
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\obj\Debug\UI.frm_QLPNhap.resources
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\obj\Debug\UI.QLPXuat.resources
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\obj\Debug\UI.Report.resources
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\obj\Debug\UI.reportHangHoa.resources
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\obj\Debug\UI.frm_TaoPNhap.resources
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\obj\Debug\UI.frm_QLTKhoan.resources
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\obj\Debug\UI.frm_TaoPXuat.resources
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\obj\Debug\UI.exe.licenses
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\QLKho (1)\QLKho\UI\obj\Debug\UI.csproj.CopyComplete
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\obj\Debug\UI.csprojAssemblyReference.cache
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\obj\Debug\UI.exe.config
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\obj\Debug\UI.exe
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\obj\Debug\UI.pdb
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\UI.exe.config
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\UI.exe
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\UI.pdb
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\BUS.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.CodeParser.v17.1.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.Data.v17.1.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.DataAccess.v17.1.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.Office.v17.1.Core.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.PivotGrid.v17.1.Core.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.RichEdit.v17.1.Export.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.Xpo.v17.1.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraPivotGrid.v17.1.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraReports.v17.1.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DAL.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\EnvDTE.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\stdole.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\EnvDTE80.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\VSLangProj.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\VSLangProj80.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\Newtonsoft.Json.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.MSXML.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.Build.Framework.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\VSLangProj2.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\BUS.pdb
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.Data.v17.1.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.DataAccess.v17.1.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.Office.v17.1.Core.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.Xpo.v17.1.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraReports.v17.1.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DAL.pdb
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DAL.dll.config
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\obj\Debug\UI.BaoCao.resources
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\obj\Debug\UI.frm_ChiTietNhap.resources
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\obj\Debug\UI.frm_Login.resources
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\obj\Debug\UI.frm_MainForm.resources
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\obj\Debug\UI.Properties.Resources.resources
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\obj\Debug\UI.frm_QLHHoa.resources
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\obj\Debug\UI.frm_QLNCCap.resources
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\obj\Debug\UI.frm_QLPNhap.resources
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\obj\Debug\UI.QLPXuat.resources
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\obj\Debug\UI.Report.resources
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\obj\Debug\UI.reportHangHoa.resources
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\obj\Debug\UI.frm_TaoPNhap.resources
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\obj\Debug\UI.frm_QLTKhoan.resources
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\obj\Debug\UI.frm_TaoPXuat.resources
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\obj\Debug\UI.csproj.GenerateResource.cache
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\obj\Debug\UI.exe.licenses
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\obj\Debug\RdlCompile.cache
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\obj\Debug\RdlCompile.compiled
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\UI\obj\Debug\UI.csproj.CopyComplete

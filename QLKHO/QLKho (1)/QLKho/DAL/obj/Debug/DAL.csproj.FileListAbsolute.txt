@@ -1,0 +1,80 @@
+C:\Users\dell\Desktop\QLKho\DAL\bin\Debug\DAL.dll
+C:\Users\dell\Desktop\QLKho\DAL\bin\Debug\DAL.pdb
+C:\Users\dell\Desktop\QLKho\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\QLKho\DAL\obj\Debug\DAL.dll
+C:\Users\dell\Desktop\QLKho\DAL\obj\Debug\DAL.pdb
+C:\Users\dell\Desktop\QLKho\DAL\bin\Debug\DAL.dll.config
+C:\Users\dell\Desktop\QLKho\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\QLKho\DAL\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\dell\Desktop\QLKho\DAL\bin\Debug\DevExpress.Xpo.v17.1.dll
+C:\Users\dell\Desktop\QLKho\DAL\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\dell\Desktop\QLKho\DAL\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\dell\Desktop\QLKho\DAL\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\DAL\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\DAL\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\DAL\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\DAL\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\DAL\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\DAL\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\DAL\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\DAL\bin\Debug\DAL.dll.config
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\DAL\bin\Debug\DAL.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\DAL\bin\Debug\DAL.pdb
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\DAL\bin\Debug\DevExpress.Data.v17.1.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\DAL\bin\Debug\DevExpress.Xpo.v17.1.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\DAL\bin\Debug\DevExpress.Data.v17.1.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\DAL\bin\Debug\DevExpress.Xpo.v17.1.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\DAL\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\DAL\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\DAL\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\DAL\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\DAL\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\DAL\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\DAL\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\DAL\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\DAL\obj\Debug\DAL.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho\DAL\obj\Debug\DAL.pdb
+C:\Users\dell\Desktop\QLKho (1)\QLKho\DAL\bin\Debug\DAL.dll.config
+C:\Users\dell\Desktop\QLKho (1)\QLKho\DAL\bin\Debug\DAL.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\DAL\bin\Debug\DAL.pdb
+C:\Users\dell\Desktop\QLKho (1)\QLKho\DAL\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\DAL\bin\Debug\DevExpress.Xpo.v17.1.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\DAL\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\dell\Desktop\QLKho (1)\QLKho\DAL\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\dell\Desktop\QLKho (1)\QLKho\DAL\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\DAL\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\DAL\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\DAL\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\DAL\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\DAL\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\DAL\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\DAL\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\QLKho (1)\QLKho\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\QLKho (1)\QLKho\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\dell\Desktop\QLKho (1)\QLKho\DAL\obj\Debug\DAL.dll
+C:\Users\dell\Desktop\QLKho (1)\QLKho\DAL\obj\Debug\DAL.pdb
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\DAL\bin\Debug\DAL.dll.config
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\DAL\bin\Debug\DAL.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\DAL\bin\Debug\DAL.pdb
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\DAL\bin\Debug\DevExpress.Data.v17.1.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\DAL\bin\Debug\DevExpress.Xpo.v17.1.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\DAL\bin\Debug\DevExpress.Data.v17.1.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\DAL\bin\Debug\DevExpress.Xpo.v17.1.xml
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\DAL\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\DAL\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\DAL\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\DAL\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\DAL\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\DAL\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\DAL\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\DAL\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\DAL\obj\Debug\DAL.dll
+D:\Môn học đầu năm 2019\Phát triển ứng dụng windows\QLKHO\QLKho (1)\QLKho\DAL\obj\Debug\DAL.pdb
